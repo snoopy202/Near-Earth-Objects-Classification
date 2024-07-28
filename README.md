@@ -4,15 +4,6 @@
   <img src="https://www.techexplorist.com/wp-content/uploads/2021/12/NASAs-Eyes-on-Asteroids.jpg" alt="Techexplorist">
 </p>
 
-<p>
-  Picture Source: <a href="https://www.techexplorist.com/wp-content/uploads/2021/12/NASAs-Eyes-on-Asteroids.jpg">Techexplorist</a>
-</p>
-
-<br>
-
-Welcome to the "Predictive Modeling of Near-Earth Objects using Artificial Neural Networks" repository! In this project, we ventured into the fascinating realm of celestial objects and harnessed the power of artificial neural networks to tackle a critical challenge. Our mission? To predict the classification of Near-Earth Objects (NEOs) as either "hazardous" or "non-hazardous." NEOs are asteroids and comets that come close to Earth's orbit, and understanding their potential threat is paramount. With the aid of advanced machine learning techniques, we embarked on a journey to build a predictive model that could identify hazardous NEOs. Armed with data and artificial intelligence, we delved into the cosmos to enhance our ability to safeguard our planet.
-
-<br>
 
 ## Near-Earth Objects (NEOs)
 
